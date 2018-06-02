@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+	"textures": {
+      "bottom": "mod1:blocks/nuke_bottom",
+      "top": "mod1:blocks/nuke_top",
+      "side": "mod1:blocks/nuke_side"
+	}
+}

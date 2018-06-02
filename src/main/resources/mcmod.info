@@ -1,0 +1,15 @@
+[
+{
+  "modid": "mod1",
+  "name": "Mod1",
+  "description": "William is cool",
+  "version": "1.0",
+  "mcversion": "[1.12.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["William5553"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

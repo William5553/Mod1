@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:tnt"
+        },
+        {
+            "item": "minecraft:nether_star"
+        },
+		{
+			"item": "minecraft:gunpowder"
+        },
+      {
+        "item": "minecraft:sand"
+		}
+    ],
+    "result": {
+        "item": "mod1:nuke"
+    }
+}

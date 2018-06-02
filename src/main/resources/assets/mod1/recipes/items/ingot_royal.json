@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+          [
+            "B"
+          ],
+  "key":
+  {
+    "B":
+    {
+      "item": "mod1:block_royal"
+    }
+  },
+  "result":
+  {
+    "item": "mod1:ingot_royal",
+    "count": 9
+  }
+}
